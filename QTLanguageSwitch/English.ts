@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="en">
 <context>
     <name>Dialog</name>
     <message>
@@ -10,9 +10,18 @@
     </message>
     <message>
         <location filename="dialog.ui" line="26"/>
-        <location filename="dialog.ui" line="39"/>
-        <source>PushButton</source>
+        <source>切换为中文</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="dialog.ui" line="39"/>
+        <source>SwitchEn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="dialog.ui" line="58"/>
+        <source>咏鹅</source>
+        <translation type="unfinished">Goslings</translation>
     </message>
 </context>
 </TS>

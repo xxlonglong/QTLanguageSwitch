@@ -18,6 +18,10 @@ public:
 private slots:
     void on_Btn_ToChs_clicked(bool checked);
 
+    void on_Btn_ToChs_clicked();
+
+    void on_Btn_ToEn_clicked();
+
 private:
     Ui::Dialog *ui;
 };
