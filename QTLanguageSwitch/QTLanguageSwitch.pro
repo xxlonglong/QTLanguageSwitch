@@ -34,8 +34,8 @@ HEADERS += \
 FORMS += \
         dialog.ui
 
-TRANSLATIONS +=	cn.ts\
-                en.ts
+TRANSLATIONS +=	Chinese.ts\
+                English.ts
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin

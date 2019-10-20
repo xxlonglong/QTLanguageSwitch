@@ -12,3 +12,8 @@ Dialog::~Dialog()
 {
     delete ui;
 }
+
+void Dialog::on_Btn_ToChs_clicked(bool checked)
+{
+
+}

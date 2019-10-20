@@ -15,6 +15,9 @@ public:
     explicit Dialog(QWidget *parent = nullptr);
     ~Dialog();
 
+private slots:
+    void on_Btn_ToChs_clicked(bool checked);
+
 private:
     Ui::Dialog *ui;
 };
